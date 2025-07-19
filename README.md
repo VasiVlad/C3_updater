@@ -39,5 +39,6 @@ Orange background          | Data type mismatch or text in numeric column
 
 • If folders Easy, Sub and Updated are located in the same directory as .exe it will be chosen by default
 • When issues are found (duplicates or missing tags), buttons appear to open those files.
+
 • WorkClass_Data.csv` and "WorkStep_Data.csv" must be placed in the same folder as the executable or script.
 • Fully portable — no need to install Python when using the .exe version.

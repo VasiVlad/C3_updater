@@ -1,9 +1,3 @@
-# C3_updater.py — Финальная версия
-# ✅ rename_files, rename_updated_files, check_duplicates
-# ✅ CSV лог с заголовками и filename
-# ✅ Чекбокс 95% включён по умолчанию
-# ✅ Очистка окна логов
-
 import os
 import re
 import tkinter as tk

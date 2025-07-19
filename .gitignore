@@ -1,0 +1,26 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+#ignore excel and csv
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+
+# keep reference tables
+!WorkClass_Data.csv
+!WorkStep_Data.csv
+
+# 🧪 Jupyter и env
+.ipynb_checkpoints/
+.env
+.venv/
+*.ipynb
+*.bak
+
+# 🧑‍💻 OS Specific
+.DS_Store
+Thumbs.db
